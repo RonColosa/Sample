@@ -1,0 +1,12 @@
+C:\Users\MSI\source\repos\ColosaRonn\ColosaRonn\bin\Debug\ColosaRonn.exe.config
+C:\Users\MSI\source\repos\ColosaRonn\ColosaRonn\bin\Debug\ColosaRonn.exe
+C:\Users\MSI\source\repos\ColosaRonn\ColosaRonn\bin\Debug\ColosaRonn.pdb
+C:\Users\MSI\source\repos\ColosaRonn\ColosaRonn\bin\Debug\ColosaRonn.xml
+C:\Users\MSI\source\repos\ColosaRonn\ColosaRonn\obj\Debug\ColosaRonn.Form1.resources
+C:\Users\MSI\source\repos\ColosaRonn\ColosaRonn\obj\Debug\ColosaRonn.Form2.resources
+C:\Users\MSI\source\repos\ColosaRonn\ColosaRonn\obj\Debug\ColosaRonn.Resources.resources
+C:\Users\MSI\source\repos\ColosaRonn\ColosaRonn\obj\Debug\ColosaRonn.vbproj.GenerateResource.cache
+C:\Users\MSI\source\repos\ColosaRonn\ColosaRonn\obj\Debug\ColosaRonn.vbproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\ColosaRonn\ColosaRonn\obj\Debug\ColosaRonn.exe
+C:\Users\MSI\source\repos\ColosaRonn\ColosaRonn\obj\Debug\ColosaRonn.xml
+C:\Users\MSI\source\repos\ColosaRonn\ColosaRonn\obj\Debug\ColosaRonn.pdb

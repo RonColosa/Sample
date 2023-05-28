@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.916
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ColosaRonn", "ColosaRonn\ColosaRonn.vbproj", "{1C242222-1732-40F2-9F54-AADDC2371187}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "COLOSARON", "COLOSARON\COLOSARON.vdproj", "{79C6EF76-4A74-4279-9611-385D6311F50A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C242222-1732-40F2-9F54-AADDC2371187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C242222-1732-40F2-9F54-AADDC2371187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C242222-1732-40F2-9F54-AADDC2371187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C242222-1732-40F2-9F54-AADDC2371187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C6EF76-4A74-4279-9611-385D6311F50A}.Debug|Any CPU.ActiveCfg = Debug
+		{79C6EF76-4A74-4279-9611-385D6311F50A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD3621E0-FDF8-4954-AAE9-676F6966F9D1}
+	EndGlobalSection
+EndGlobal
